@@ -2,4 +2,4 @@
 
 ## My first time using Cpp
 
-The file Study have all Cpp file, and the main is Sources
+The file Study have all Cpp file, and the main is Source.cpp
